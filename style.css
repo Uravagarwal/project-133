@@ -1,0 +1,14 @@
+#Btn
+{
+    width: 250px;
+    border-radius: 20px;
+    background-color: yellow;
+    color: black;
+}
+
+.head
+{
+    width: 350px;
+    font-size: 20px;
+    color: black;
+}
